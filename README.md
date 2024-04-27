@@ -1,4 +1,4 @@
-### Hi there 👋
+### こんにちは 🐝
 
 <!--
 **imamu1019/imamu1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
